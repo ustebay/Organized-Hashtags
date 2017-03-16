@@ -12,7 +12,7 @@ Recently similar arguments were made for tweets published during the US election
 ##### Files:
 twitterstream.py: Collect tweets (Note that I removed my Twitter developer credentials from the file, you need to enter yours to make this run)
 
-hashtags.py: Strip the hashtags and write hashtag dictionary (hashtag:mention timestamps) in a json file
+hashtags.py: Strip the hashtags and write hashtag dictionary (key=hashtag, values=timestamps of mentions) in a json file
 
 generate_dataset.py: Create time series for the hashtags
 
