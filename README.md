@@ -2,7 +2,7 @@
 
 In this project I analyse Twitter data to identify characteristics of hashtags produced by automated or organized sources.
 
-I collected tweets using the Twitter API for three months at the end of 2013. I then stripped hashtags from these tweets and concentrated on the time behaviour hashtags mentioned at least 1000 times in this period.
+I collected tweets using the Twitter API for three months at the end of 2013. I then stripped hashtags from these tweets and concentrated on the time behaviour of hashtags mentioned at least 1000 times in this period.
 
 Originally I concentrated on Turkish hashtags because at the time they were frequently appearing in the world wide trending topics section. But there seems to be other hashtags with similar behaviour. (I labeled Turkish hashtags by hand.)
 
